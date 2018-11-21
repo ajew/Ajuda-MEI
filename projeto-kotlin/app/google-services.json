@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733929246114",
+    "firebase_url": "https://ajuda-mei.firebaseio.com",
+    "project_id": "ajuda-mei",
+    "storage_bucket": "ajuda-mei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733929246114:android:4479792328718d70",
+        "android_client_info": {
+          "package_name": "com.example.otavio.ajuda_meikotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733929246114-h07m5v5qj09vpov4mb55roneqv32762h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otavio.ajuda_meikotlin",
+            "certificate_hash": "0c06a2eeb32ce5547f51655387f0388736ddfce7"
+          }
+        },
+        {
+          "client_id": "733929246114-ehqd2mpae38as2i8tfhgn9nli7fikqtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwovKYYNoFVVOB87gUjmxgjLOtShCcXI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733929246114-ehqd2mpae38as2i8tfhgn9nli7fikqtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
